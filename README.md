@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Akshay Vijay Nikam 👋
+
+**Data Analyst & Business Intelligence Enthusiast**  
+_Data-Driven Decision Maker | Insights Enthusiast | Problem Solver_
+
+---
+
+## 🚀 About Me
+
+I’m passionate about transforming data into actionable insights that drive business value. With strong expertise in BI tools and analytics, I love solving complex problems and empowering decision-makers.
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Business Intelligence:** Power BI, Tableau, Alteryx
+- **Programming & Analysis:** Python, Jupyter Notebook
+- **Database Management:** MS Access
+
+---
+
+## 🌟 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/akshay-nikam-2b274a5b/)
+
+---
+
+## 📊 GitHub Stats
+
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshayVijayNikam&show_icons=true&hide_title=true&theme=default)
+
+---
 
 <!--
-**AkshayVijayNikam/AkshayVijayNikam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Add your projects here!
+## 🚩 Notable Projects
 
-Here are some ideas to get you started:
+- **Project Name:** Short description [Repo Link](#)
+- **Another Project:** Short description [Repo Link](#)
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+<!--
+Optionally add fun facts, hobbies, or more personal info here!
 -->
